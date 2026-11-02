@@ -6,7 +6,7 @@ Modern developer portfolio built with **React, Vite, and plain CSS**.
 
 ## Live Website
 
-<ADD YOUR LIVE LINK HERE>
+https://mahalakshmitetala.pages.dev/
 
 ## Features
 
